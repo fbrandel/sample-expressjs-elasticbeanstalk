@@ -1,0 +1,14 @@
+{
+  "name": "sample-expressjs-elasticbeanstalk",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Florian Brandel <mail@fbrandel.de> (http://www.fbrandel.de/)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.2"
+  }
+}
